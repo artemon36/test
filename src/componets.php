@@ -5,9 +5,9 @@ $add_colon2 = '<span class="badge badge-sm bg-gradient-secondary">Offline</span>
      
 // Подключение к базе данных
 $servername = "server127.hosting.reg.ru";
-$username = "u2241890_MandoBD";
-$password = "mandomemori2022";
-$dbname = "u2241890_auth";
+$username = "....";
+$password = "....";
+$dbname = "...";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 $conn->set_charset("utf8mb4");
